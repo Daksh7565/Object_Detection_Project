@@ -304,6 +304,4 @@ For major changes, please open an issue first to discuss your ideas.
 **GitHub:** [Daksh7565](https://github.com/Daksh7565)
 **Project Repository:** [Object_Detection_Project](https://github.com/Daksh7565/Object_Detection_Project)
 
----
 
-Would you like me to make this README **automatically formatted with emojis + GitHub badges (Python | FastAPI | Streamlit | ONNX)** for a more **professional repository look**?
