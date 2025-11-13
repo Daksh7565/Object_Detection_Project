@@ -1,0 +1,15 @@
+streamlit
+requests            
+pandas      
+python-dotenv       
+langchain
+langchain_core
+langchain-groq    
+langgraph  
+fastapi[all]
+uvicorn
+SQLAlchemy
+onnxruntime-gpu
+onnx
+opencv-python 
+scipy
